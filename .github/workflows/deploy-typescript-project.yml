@@ -1,4 +1,4 @@
-name: Build emscripten project and deploy
+name: Build typescript project and deploy
 
 on:
   push:
